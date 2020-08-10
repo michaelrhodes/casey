@@ -3,7 +3,7 @@ var separator = /([-_\s]+)/
 var excluded = /[^-\s\w]/g
 
 module.exports = input => input
-  .replace(excluded, '')
+  .replace(excluded, ' ')
   .split(separator)
   .reduce((array, string) => ((
     separator.test(string) ||
