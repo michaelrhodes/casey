@@ -1,6 +1,8 @@
 # casey
 character case transforms
 
+[![ci](https://travis-ci.org/michaelrhodes/casey.svg?branch=master)](https://travis-ci.org/michaelrhodes/casey)
+
 ## install
 ```sh
 npm install michaelrhodes/casey
