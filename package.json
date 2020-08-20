@@ -2,5 +2,11 @@
   "name": "casey",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "dexy": "https://pkg.mkr.sx/dexy/1.0.6.tgz"
+  },
+  "scripts": {
+    "test": "dexy test"
+  }
 }
