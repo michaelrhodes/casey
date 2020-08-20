@@ -5,7 +5,7 @@ character case transforms
 
 ## install
 ```sh
-npm install michaelrhodes/casey
+npm install https://pkg.mkx.sx/casey/1.0.0.tgz
 ```
 
 ## use
